@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](vkuznet/images/banner.png)
 <!--
 ### Hi there 👋
 **vkuznet/vkuznet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vk4business/)
+https://img.shields.io/static/v1?label=Google&message=Site&color=blue
+[<img src="https://img.shields.io/staic/v1?label=Google&message=Site&color=blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
+
