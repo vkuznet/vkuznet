@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true)
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
 
 [<img src="https://img.shields.io/badge/Linked-In-blue" />](https://www.linkedin.com/in/vk4business/)
 [<img src="https://img.shields.io/badge/Google-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
