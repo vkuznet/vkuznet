@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
 [<img src="https://img.shields.io/badge/R&D-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/projects)
 
+### R&D areas
+Data Science | Data Discovery | Data management | Web services | Web Security
+
+Databases | Monitoring | Orchestration | Big Data | Analytics | Security
