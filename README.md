@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/Linked-In-blue" />](https://www.linkedin.com/in/vk4business/)
 [<img src="https://img.shields.io/badge/Google-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
+[<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
+[<img src="https://img.shields.io/badge/R&D-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/projects)
 
