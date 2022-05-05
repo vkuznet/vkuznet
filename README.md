@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 Data Science | Data Discovery | Data management | Web services | Web Security
 
 Databases | Monitoring | Orchestration | Big Data | Analytics | Security
+
+### Select papers
+- [The CMS monitoring infrastructure and applications](https://link.springer.com/article/10.1007/s41781-020-00051-x)
+- [MLaaS4HEP: Machine Learning as a Service for HEP](https://link.springer.com/article/10.1007/s41781-021-00061-3)
+- [A Roadmap for HEP Software and Computing R&D for the 2020s](https://arxiv.org/abs/1712.06982)
+- [The CMS data aggregation system](https://www.sciencedirect.com/science/article/pii/S1877050910001730)
+- [Full list of papers](https://sites.google.com/view/valentin-kuznetsov/publications)
