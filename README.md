@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
 [<img src="https://img.shields.io/badge/R&D-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/projects)
 
+My Research [page](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0) contains references to [Resume](https://sites.google.com/view/valentin-kuznetsov/background) | [Publications](https://sites.google.com/view/valentin-kuznetsov/publications) | [Projects](https://sites.google.com/view/valentin-kuznetsov/projects)
+
 ### R&D areas
 Data Science | Data Discovery | Data management | Web services | Web Security
 
