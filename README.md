@@ -35,7 +35,6 @@ Databases | Monitoring | Orchestration | Big Data | Analytics | Security
 ### Projects
 - CMS data and workflow management: [DMWM repositories](https://github.com/dmwm/repositories)
 - Cornell CHESS Computing data and workflow management: [CHESSComputing repositories](https://github.com/CHESSComputing/repositories)
-- [OreCast repositories](https://github.com/orgs/OreCast/repositories)
  
 ### Select papers
 - [The CMS monitoring infrastructure and applications](https://link.springer.com/article/10.1007/s41781-020-00051-x)
