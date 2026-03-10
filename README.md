@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- new github stats -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+<img src="https://avatars.githubusercontent.com/u/125138?v=4&size=196" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+
+
 
 
 
