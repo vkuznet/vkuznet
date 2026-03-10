@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<-- new github stats -->
+<!-- new github stats -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
-
+<img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
 
 <!-- old stats -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true)
