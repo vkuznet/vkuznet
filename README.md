@@ -17,18 +17,15 @@ Here are some ideas to get you started:
 <!-- new github stats -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
-<img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+
 
 <!-- old stats -->
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznet&layout=compact&hide=javascript,html,css,jupyter%20notebook,vim%20script)
 -->
 
-<!--
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznet)
-![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
-
+<img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
 [<img src="https://img.shields.io/badge/Linked-In-blue" />](https://www.linkedin.com/in/vk4business/)
 [<img src="https://img.shields.io/badge/Google-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
 [<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
