@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+
 [<img src="https://img.shields.io/badge/Linked-In-blue" />](https://www.linkedin.com/in/vk4business/)
 [<img src="https://img.shields.io/badge/Google-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
 [<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
