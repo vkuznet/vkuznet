@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <-- new github stats -->
-[![Valentin's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznet)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
-<!-- old stats -->>
+
+<!-- old stats -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=vkuznet&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznet&layout=compact&hide=javascript,html,css,jupyter%20notebook,vim%20script)
 -->
