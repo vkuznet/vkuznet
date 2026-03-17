@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- new github stats -->
-<img src="https://avatars.githubusercontent.com/u/125138?v=4&size=196" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+<img src="https://www.samonlinemarketing.nl/wp-content/uploads/2014/05/keep-it-simple-stupid-kiss.png" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vkuznet?cardType=level-alternate&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
 
@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- gitranks: https://gitranks.com/badge/gallery -->
+<!--
 <img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=percentile&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" /> <img src="https://gitranks.com/api/badge/v2/vkuznet?ranking=c&context=global&type=tier&meta=none&label=Contributor+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%237c3aed" /> [<img src="https://img.shields.io/badge/Linked-In-blue" />](https://www.linkedin.com/in/vk4business/)
+-->
 [<img src="https://img.shields.io/badge/research-profile-blue" />](https://sites.google.com/view/valentin-kuznetsov/home?authuser=0)
 [<img src="https://img.shields.io/badge/Publication-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/publications)
 [<img src="https://img.shields.io/badge/R&D-Site-blue" />](https://sites.google.com/view/valentin-kuznetsov/projects)
